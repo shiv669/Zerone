@@ -1,6 +1,6 @@
 # ♻️ Zerone: The Next-Gen Waste-to-Resource System for Mars and Beyond
 
-Zerone/1759599923604.jpg
+![Zerone System Render](./1759599923604.jpg)
 <sub>*Visual concept of Zerone. Not final hardware.*</sub>
 
 ---
